@@ -1,0 +1,2 @@
+import{p as t,b as e}from"./p-9ef19b07.js";export{s as setNonce}from"./p-9ef19b07.js";import{g as a}from"./p-e1255160.js";var r=()=>{const e=import.meta.url;const a={};if(e!==""){a.resourcesUrl=new URL(".",e).href}return t(a)};r().then((async t=>{await a();return e([["p-0e75d40a",[[1,"tp-input",{label:[513],type:[513],placeholder:[513],outlined:[516],startValue:[8,"start-value"]}]]]],t)}));
+//# sourceMappingURL=inscricoes.esm.js.map
